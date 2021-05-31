@@ -1,0 +1,11 @@
+{
+    "name": "nextbits/demo",
+    "description": "Assignment project for user register, login & emails",
+    "authors": [
+        {
+            "name": "Vinay",
+            "email": "vinay.amaraneni@gmail.com"
+        }
+    ],
+    "require": {}
+}
